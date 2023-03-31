@@ -10,3 +10,6 @@ O código da Aula 1 pode ser encontrado na branch aula1 no diretório alura-stic
 
 Aula 2
 O código da Aula 2 pode ser encontrado na branch aula2 no diretório alura-stickers.
+
+Aula 3
+O código da Aula 3 pode ser encontrado na branch aula3 no diretório alura-stickers.
